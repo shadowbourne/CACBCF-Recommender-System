@@ -1,7 +1,7 @@
 # A Novel Context Aware Restaurant Recommender System Using Content-Boosted Collaborative Filtering
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
-## Grade: 1st - 92/100
+## Grade: 1st - 92/100, 3rd in year (of 116 students).
 ## Paper Introduction:
 This paper proposes a restaurant recommender system (RS) by
 building on the works of various authors, with the aim of aiding
